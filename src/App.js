@@ -118,18 +118,18 @@ function App() {
                                                     Machine State: <b>Printing</b> <br/>
                                                     Time Elapsed: <b>00:04:20</b> <br/>
                                                     Total Time Estimate: <b>01:06:09</b> <br/>
-                                                    Layer: <b>69 of 420</b> <br/>
+                                                    Layer: <b>1 of 3</b> <br/>
                                                 </div>
                                                 <ProgressBar animated now={45} label="45%"
                                                              style={{marginTop: "0.5rem"}}/>
                                             </ListGroup.Item>
                                             <ListGroup.Item>
-                                                Filename: <b>balls.mp4</b> <br/>
+                                                Filename: <b>file.mp4</b> <br/>
                                                 Job ID: <b>12341234</b>
                                             </ListGroup.Item>
                                             <ListGroup.Item>
                                                 <div>
-                                                    Feed / Feed Current: <b>Wtf is feed</b> <br/>
+                                                    Feed / Feed Current: <b>???</b> <br/>
                                                 </div>
 
                                             </ListGroup.Item>
